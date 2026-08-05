@@ -1,1 +1,2 @@
-看 comfyui-demo(2).ipynb就行. 
+一般玩家看 comfyui-demo(2).ipynb跑demo就行. 
+(3)是后台运行.更方便下载模型.推荐使用!!!!!!!!!!!11
