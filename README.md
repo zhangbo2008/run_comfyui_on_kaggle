@@ -1,3 +1,6 @@
+
+有的同学会出现notebook, github连接不上的bug,其实打开notebook联网功能就完事了.默认不打开.
+
 一般玩家看 comfyui-demo(2).ipynb跑demo就行. 
 (3)是后台运行.更方便下载模型.推荐使用!!!!!!!!!!!11
 
